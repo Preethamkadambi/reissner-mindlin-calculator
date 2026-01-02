@@ -295,4 +295,5 @@ with tab4:
                 st.error(f"X-Rotation Unbalanced (Residual: {delta_1:.4f})")
 
 st.markdown("---")
-[cite_start]st.caption("Implementation based on 'Aircraft Structures - Plates - Reissner-Mindlin Theory', University of Liège [cite: 1-1286].")
+
+st.caption("Implementation based on 'Aircraft Structures - Plates - Reissner-Mindlin Theory', University of Liège [cite: 1-1286].")
